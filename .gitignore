@@ -9,7 +9,6 @@
 *.egg
 *.egg-info
 __pycache__
-dist
 build
 pip-log.txt
 MANIFEST
